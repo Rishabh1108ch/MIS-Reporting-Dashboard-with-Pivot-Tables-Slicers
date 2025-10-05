@@ -1,8 +1,7 @@
 # 📊 Excel Sales MIS Dashboard
-
-[![Excel](https://img.shields.io/badge/Excel-Dashboard-green?logo=microsoft-excel)](https://www.microsoft.com/en-in/microsoft-365/excel)  
-[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)]([YOUR_GITHUB_REPO_LINK](https://github.com/Rishabh1108ch))  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Portfolio-blue?logo=linkedin)]([YOUR_LINKEDIN_PROJECT_LINK](https://www.linkedin.com/in/rishabh-chandrakar/details/projects/))  
+ 
+[![GitHub](https://img.shields.io/badge/GitHub-Repo-blue?logo=github)](https://github.com/Rishabh1108ch)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Portfolio-blue?logo=linkedin)](https://www.linkedin.com/in/rishabh-chandrakar/details/projects/)  
 
 ### 🧭Excel Sales MIS Dashboard
 ![Excel Sales MIS Dashboaaard](https://github.com/Rishabh1108ch/MIS-Reporting-Dashboard-with-Pivot-Tables-Slicers/blob/main/Screenshot%20Excel%20Sales%20MIS%20Dashboard.png)
@@ -85,6 +84,6 @@ It uses **Pivot Tables, GETPIVOTDATA, and Slicers** to create a **dynamic busine
 ### 🧭Excel Sales MIS Dashboard
 ![Excel Sales MIS Dashboaaard](https://github.com/Rishabh1108ch/MIS-Reporting-Dashboard-with-Pivot-Tables-Slicers/blob/main/Screenshot%20Excel%20Sales%20MIS%20Dashboard.png)
  
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Portfolio-blue?logo=linkedin)](https://www.linkedin.com/in/rishabh-chandrakar/details/projects/) 
 ```markdown
 
